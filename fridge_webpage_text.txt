@@ -1,0 +1,797 @@
+html
+Official Refrigerator Parts | Order Today, Ships Today | PartSelect
+var CacheBustingParameter = '20240404'; var StaticAssetsURL = 'https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net';
+(function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "5665365" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
+(function (a, e, c, f, g, h, b, d) { var k = { ak: "860167529", cl: "uCzNCLv4tG4Q6bqUmgM" }; a[c] = a[c] || function () { (a[c].q = a[c].q || []).push(arguments) }; a[g] || (a[g] = k.ak); b = e.createElement(h); b.async = 1; b.src = "//www.gstatic.com/wcm/loader.js"; d = e.getElementsByTagName(h)[0]; d.parentNode.insertBefore(b, d); a[f] = function (b, d, e) { a[c](2, b, k, d, null, new Date, e) }; a[f]() })(window, document, "_googWcmImpl", "_googWcmGet", "_googWcmAk", "script");
+dataLayer = [];
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.setAttributeNode(d.createAttribute('data-ot-ignore')); j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5CTJMBD');
+function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'GTM-5CTJMBD');
+!function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        }; if (!f._fbq) f._fbq = n;
+        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+    }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '184361980141628');
+        fbq('track', "PageView");
+!function (q, e, v, n, t, s) { if (q.qp) return; n = q.qp = function () { n.qp ? n.qp.apply(n, arguments) : n.queue.push(arguments); }; n.queue = []; t = document.createElement(e); t.async = !0; t.src = v; s = document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); }(window, 'script', 'https://a.quora.com/qevents.js');
+        qp('init', '323d8cc6d19e45b5b2f87d7fbfe2ceaa');
+        qp('track', 'ViewContent');
+!function (e) {
+        if (window.pintrk) return;
+        window.pintrk = function () { window.pintrk.queue.push(Array.prototype.slice.call(arguments)) };
+        var n = window.pintrk; n.queue = [], n.version = "3.0"; 
+        var t = document.createElement("script"); t.async = !0, t.src = e; 
+        var r = document.getElementsByTagName("script")[0];
+        r.parentNode.insertBefore(t, r);
+    }("https://s.pinimg.com/ct/core.js");
+    pintrk('load', '2613026897268');
+    pintrk('page');
+(function (a, b, c, d, e, f, g) { e['ire_o'] = c; e[c] = e[c] || function () { (e[c].a = e[c].a || []).push(arguments) }; f = d.createElement(b); g = d.getElementsByTagName(b)[0]; f.async = 1; f.src = a; g.parentNode.insertBefore(f, g); })('https://utt.impactcdn.com/A4942724-b31e-43e4-98ae-9a3a44bb50071.js', 'script', 'ire', document, window);
+(function () {
+        var cookie_val = '';
+        var referrer = document.referrer;
+        if (referrer.indexOf('www.google') >= 0 || referrer.indexOf('search.yahoo') >= 0 || referrer.indexOf('www.bing') >= 0) { cookie_val = "organic"; }
+        if (window.location.href.toLowerCase().indexOf('source=gaws') >= 0 || window.location.href.toLowerCase().indexOf('utm_medium=cpc') >= 0) { cookie_val = "cpc"; }
+
+        if (cookie_val) {
+            var expires = new Date(); expires.setDate(expires.getDate() + 365);
+            document.cookie = 'phr_rule=' + cookie_val + '; expires =' + expires.toGMTString() + '; path=/';
+        }
+    })();
+Start VWO Async SmartCode
+window._vwo_code || (function () {
+        var account_id = 835547,
+            version = 2.0,
+            settings_tolerance = 2000,
+            hide_element = 'body',
+            hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+            /* DO NOT EDIT BELOW THIS LINE */
+            f = false, w = window, d = document, v = d.querySelector('#vwoCode'), cK = '_vwo_' + account_id + '_settings', cc = {}; try { var c = JSON.parse(localStorage.getItem('_vwo_' + account_id + '_config')); cc = c && typeof c === 'object' ? c : {} } catch (e) { } var stT = cc.stT === 'session' ? w.sessionStorage : w.localStorage; code = { use_existing_jquery: function () { return typeof use_existing_jquery !== 'undefined' ? use_existing_jquery : undefined }, library_tolerance: function () { return typeof library_tolerance !== 'undefined' ? library_tolerance : undefined }, settings_tolerance: function () { return cc.sT || settings_tolerance }, hide_element_style: function () { return '{' + (cc.hES || hide_element_style) + '}' }, hide_element: function () { return typeof cc.hE === 'string' ? cc.hE : hide_element }, getVersion: function () { return version }, finish: function () { if (!f) { f = true; var e = d.getElementById('_vis_opt_path_hides'); if (e) e.parentNode.removeChild(e) } }, finished: function () { return f }, load: function (e) { var t = this.getSettings(), n = d.createElement('script'), i = this; if (t) { n.textContent = t; d.getElementsByTagName('head')[0].appendChild(n); if (!w.VWO || VWO.caE) { stT.removeItem(cK); i.load(e) } } else { n.fetchPriority = 'high'; n.src = e; n.type = 'text/javascript'; n.onerror = function () { _vwo_code.finish() }; d.getElementsByTagName('head')[0].appendChild(n) } }, getSettings: function () { try { var e = stT.getItem(cK); if (!e) { return } e = JSON.parse(e); if (Date.now() > e.e) { stT.removeItem(cK); return } return e.s } catch (e) { return } }, init: function () { if (d.URL.indexOf('__vwo_disable__') > -1) return; var e = this.settings_tolerance(); w._vwo_settings_timer = setTimeout(function () { _vwo_code.finish(); stT.removeItem(cK) }, e); var t = d.currentScript, n = d.createElement('style'), i = this.hide_element(), r = t && !t.async && i ? i + this.hide_element_style() : '', c = d.getElementsByTagName('head')[0]; n.setAttribute('id', '_vis_opt_path_hides'); v && n.setAttribute('nonce', v.nonce); n.setAttribute('type', 'text/css'); if (n.styleSheet) n.styleSheet.cssText = r; else n.appendChild(d.createTextNode(r)); c.appendChild(n); this.load('https://dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&vn=' + version) } }; w._vwo_code = code; code.init();
+    })();
+End VWO Async SmartCode
+var CRO = (function () {
+        var croMethods = {};
+        var stringOperation = function (str, alpha) {
+            if (!str) return '';
+            var pos, res = '';
+            for (var i = 0; i < str.length; i++) {
+                pos = alpha.indexOf(str.charAt(i));
+                if (pos == -1) res += str.charAt(i);
+                else res += alpha.charAt(pos + 1);
+            }
+            return res;
+        }
+        var enc = function (str) { return stringOperation(str, 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789a'); }
+        var dec = function (str) { return stringOperation(str, '9876543210ZYXWVUTSRQPONMLKJIHGFEDCBAzyxwvutsrqponmlkjihgfedcba9'); }
+
+        croMethods.get = function (name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results && results[2]) return unescape(dec(results[2]));
+        }
+        croMethods.set = function (name, value, disabledForCSR) {
+            if (disabledForCSR && document.cookie.match('(^|;) ?PSToken=([^;]*)(;|$)')) return;
+            var value = typeof value !== 'undefined' ? value : 'enable';
+            var expires = new Date();
+            expires.setDate(expires.getDate() + 180);
+            document.cookie = name + '=' + enc(escape(value)) + '; expires' + expires.toGMTString() + '; path=/; secure';
+        }
+        croMethods.off = function (name) {
+            var expires = new Date();
+            expires.setTime(expires.getTime() - 1);
+            document.cookie = name + '=; expires=' + expires.toGMTString() + '; path=/;';
+        }
+        return croMethods;
+    })();
+
+    function CRO_SEARCH_WITHIN_FOR_SINGLE_RESULT_ON() {
+        if (CRO.get('search_within_for_single_result') != 'enable') CRO.set('search_within_for_single_result');
+    }
+    function CRO_SEARCH_WITHIN_FOR_SINGLE_RESULT_OFF() { CRO.off('search_within_for_single_result'); }
+
+    function CRO_EnableThreePaneSchematicSearch_ON() {
+        if (CRO.get('3panesearch') != 'enable') CRO.set('3panesearch');
+    }
+    function CRO_EnableThreePaneSchematicSearch_OFF() { CRO.off('3panesearch'); }
+
+    function CRO_NIBBLER_ON() {
+        if (CRO.get('search_nibbler') != 'enable') CRO.set('search_nibbler');
+    }
+    function CRO_NIBBLER_OFF() { CRO.off('search_nibbler'); }
+
+    function _New_Email_Optin(action) {
+        var optin = document.querySelector('.js-emailOptinFooter');
+        if (!optin) return;
+        optin.classList[action == 'ON' ? 'add' : 'remove']('cro-on', 'animate-it');
+        var onArr = document.querySelectorAll('[data-optin-cro="on"]');
+        for (var i = 0; i < onArr.length; i++) {
+            onArr[i].classList[action == 'ON' ? 'remove' : 'add']('d-none');
+        }
+        var offArr = document.querySelectorAll('[data-optin-cro="off"]');
+        for (var i = 0; i < offArr.length; i++) {
+            offArr[i].classList[action == 'ON' ? 'add' : 'remove']('d-none');
+        }
+    }
+    function CRO_OptIn_Discount_ON() {
+        CRO.set('CRO_OptIn_Discount', 'enable', true);
+        _New_Email_Optin('ON');
+    }
+    function CRO_OptIn_Discount_OFF() {
+        CRO.off('CRO_OptIn_Discount');
+        _New_Email_Optin('OFF');
+    }
+
+
+    function CRO_RelatedPartsCart_ON() {
+         CRO.set('CRO_RelatedPartsCart', 'enable', true);
+    }
+    function CRO_RelatedPartsCart_OFF() {
+        CRO.off('CRO_RelatedPartsCart')
+    }
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+crossOrigin: "anonymous", 
+cfg: { // Application Insights Configuration
+    instrumentationKey: '0598baf5-1786-44f2-9b36-b788a140b27e'
+}});
+var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"456187",ustr:"",originlat:"0",clientrtt:"29",ghostip:"104.120.138.46",ipv6:false,pct:"10",clientip:"76.125.205.93",requestid:"6957d96",region:"40938",protocol:"",blver:14,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"6957d96",ai:"292698",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}
+var custID = localStorage.getItem('custID'), custEmail = localStorage.getItem('custEmail');
+    if (custID == null) custID = '';
+    if (custEmail == null) custEmail = '';
+    ire('identify', { customerId: custID, customerEmail: custEmail });
+document.addEventListener("DOMContentLoaded", () => EGP.deleteCookie('PSToken'));
+Skip to main content
+Sign In
+|
+Create Account
+|
+Your Account
+Your Orders
+Your Subscriptions
+Home
+Find by Brand
+Find by Product
+Find by Symptom
+Blog
+Repair Help
+1-855-343-0066
+Contact
+Order Status
+Sign out
+Become a VIP and get
+10% OFF
+your order!
+Back
+Appliance Brands
+Admiral
+Frigidaire
+General Electric
+Jenn-Air
+KitchenAid
+LG
+Maytag
+Whirlpool
+White-Westinghouse
+See all Appliance Brands
+Lawn Equipment Brands
+Ariens
+Briggs and Stratton
+Echo
+Husqvarna
+MTD
+Murray
+Poulan
+Troy-Bilt
+See all Lawn Equipment Brands
+Back
+Appliances
+Dishwasher
+Dryer
+Stove
+Refrigerator
+Washer
+See all Appliances
+Lawn Equipment
+Lawn Mower
+Snow Blower
+Lawn Tractor
+Chainsaw
+Tiller
+Generator
+See all Lawn Equipment
+Close
+1-888-738-4871
+Daily 8am - 9pm EST
+Order Status
+Sign In
+Create Account
+Your Account
+Your Orders
+Your Subscriptions
+Sign out
+Sign In
+Your Account
+Order Status
+Create Account
+Find by Brand
+Find by Product
+Find by Symptom
+Contact
+Blog
+Repair Help
+Top Appliance Brands
+See All >
+Admiral
+Amana
+Bosch
+Caloric
+Top Lawn Equipment Brands
+See All >
+Ariens
+Briggs & Straton
+Echo
+Husqvarna
+General Electric
+KitchenAid
+LG
+Samsung
+Murray
+Poulan
+Troy-Bilt
+Weed Eater
+Admiral
+Amana
+Bosch
+Caloric
+Crosley
+Dacor
+Electrolux
+Estate
+Frigidaire
+Gibson
+Haier
+Hardwick
+Hoover
+Hotpoint
+Inglis
+Jenn-Air
+Kelvinator
+Kenmore
+Magic Chef
+Maytag
+Norge
+RCA
+Roper
+Sharp
+Speed Queen
+Tappan
+Whirpool
+White-Westinghouse
+Ariens
+Briggs and Stratton
+Echo
+Husqvarna
+Kawasaki
+Kohler
+Lawn Boy
+MTD
+Shindaiwa
+Snapper
+Tecumseh
+Toro
+Top Appliances
+See All >
+Dishwasher
+Dryer
+Stove
+Fridge
+Washer
+Top Lawn Equipment
+See All >
+Lawn Mower
+Chainsaw
+String Trimmer
+Hedge Trimmer
+Generator
+Microwave
+Washer
+Garbage Disposal
+Pressure Washer
+Pole Saw
+Stump Grinder
+Clearing Saw
+Dishwasher
+Dehumidifier
+Dryer
+Stove/Oven
+Refrigerator
+Lawn Mower
+Chainsaw
+Generator
+Blower
+Air Compressor
+Lawn Tractor
+Small Engine
+Hedge Trimmer
+Edger
+Tiller
+Freezer
+Air Conditioner
+Trash Compactor
+Same-day Shipping
+Ships from USA
+1 Year Warranty
+365 Day Returns
+✖
+Your coupon for
+will be reflected when you check out!
+✖
+Your coupon for
+has been applied and will be
+reflected when you check out!
+✖
+Hello!
+You're visiting the PartSelect
+site in U.S.
+Would you like to shop on
+the Canadian site?
+Stay on this site
+Go to Canadian site
+Refrigerator Parts
+Find Your Part
+SEARCH
+Need help finding your model number?
+Search your model number to find:
+Genuine OEM parts guaranteed to fit
+Free manuals and guides
+Repair instructions and videos
+Have questions about Water Filters?
+Shop By Brand
+Shop By Part Type
+Popular Refrigerator Parts
+Your Price
+$
+103.96
+In Stock
+Add to cart
+Refrigerator Ice and Water Filter
+★★★★★
+★★★★★
+101 Reviews
+PartSelect Number
+PS11701542
+Manufacturer Part Number
+EDR1RXD1
+This is an OEM replacement ice and water filter for your refrigerator. In side-by-side refrigerators, it is found in the top right corner or the bottom left grille. In bottom-freezer refrigerators, the filter is in the bottom left grille. In top-freezer units, the filter is located in the middle of the refrigerator. This NSF certified filter reduces 28 contaminants including pharmaceuticals, metals, minerals, pesticides, cysts, industrial chemicals, Class I Particulates and chlorine. It is made up of coconut carbon block and has three layers of filtration. The first layer is particle filtration that helps block larger contaminants. The second layer is micro-filtration, which prevents medium-sized impurities from passing. The third layer is called absorption filtration, which absorbs microscopic-sized pollutants. It measures 2 inches deep, 2 inches wide, 1-1/2 inches high, and weighs 0.5 lbs. To ensure your filter is working its best, it needs to be replaced every six months. This single filter has a simple, quick-turn installation feature that does not require any tools.
+Fixes these symptoms
+Ice maker dispenses too little ice
+Ice maker not making ice
+Ice maker won’t dispense ice
+See more...
+Installation Instructions
+James from Phelan, CA
+Old filter and water line to cold water line
+Cut a 1/4 inch off both lines and connect. Changed water filter. Found the water filter at Home Depot for 1/2 The price. Look befor you buy.
+Read more...
+Your Price
+$
+43.04
+In Stock
+Add to cart
+Refrigerator Door Shelf Bin
+★★★★★
+★★★★★
+94 Reviews
+PartSelect Number
+PS12364199
+Manufacturer Part Number
+242126602
+This manufacturer-certified Refrigerator Door Shelf Bin, also known as a crisper bin or door shelf bin, is made of clear plastic, and is easy to install. It is used to hold items in the fridge, like jars, cans, and condiments and you'll be able to visually see if the part is broken or cracked. This particular shelf attaches to the fridge door. You can check if this model is right for your appliance by checking your user manual and model number. This part should simply snap into place without the need for any tools as part of the repair. Just carefully line up the slots on the door with the slots on the bin and slide the bin down to completely lock it into place. The part is sold individually, and fits many different types of side-by-side refrigerators.
+Installation Instructions
+bradley from DOVER, PA
+bin door broke
+replaced bin door no tools needed very easy and perfect fit
+Read more...
+Videos!
+Your Price
+$
+36.13
+In Stock
+Add to cart
+Refrigerator Drive Belt
+★★★★★
+★★★★★
+168 Reviews
+PartSelect Number
+PS16542496
+Manufacturer Part Number
+WE03X29897
+This Drive Belt is 89.5" long and comes in black, featuring four ribs on the inside for a better grip. This is a long belt that wraps all the way around the dryer drum, around a tension pulley, and then around the drive motor pulley, allowing all the parts to work together, spinning the drum as the motor rotates. If the drum will not turn when the dryer is turned on the belt is likely broken. It is common for belts to stretch or become brittle over time, which is what leads to the breakage. If broken, it should be replaced; the drum simply cannot spin without this belt. Refer to your model number and user manual to check if this part is right for you. Ensure you use work gloves to protect your hands from sharp internal parts during this repair. Please note: When comparing the length of your old belt to the length of the belt as stated here, remember that a small amount of stretching and contortion may occur with belts over time for a range of different reasons. Unless your belt is drastically different in length, this belt is what you are looking for despite any small inaccuracies. You will need to remove power to your appliance, remove the main panel, and access the motor drive to slip your new belt back into place.
+Fixes these symptoms
+Drum Not Spinning
+Noisy
+Won’t Start
+See more...
+Installation Instructions
+Edwin from Seattle, WA
+Dryer making grinding noises
+We live in a Condominium, space is tight especially in the Utility room where the washer/dryer are located. Turned dryer breaker off at the electical panel.
+Removed the top cover and front assembly w/door and front drum support, right where the unit was located. Had to gain rear access  to loosen drum drive belt so undid the dryer vent hose to floor connection through a front acess hole. Moved the unit out to the breakfast nook as well as disconnecting the power cable from the wall socket. Removed the rear access panel covers and unhooked the drive belt. At the front  removed the top screws off the lower cross member to allow spreading of the side covers to allow the removal of the drum. Removed drum and found the bearing bushing gone, reduced to powder.
+Using the supplied instuction sheet, replaced the rear bearing assembly, replaced the drum after vacumming the whole interior and started the reassembly of the unit using the new belt and  moved the unit back into place. Reconnected the power cable and dryer vent then lastly replaced the lint filter and selector knob. Closed the breaker and turned on the machine, no noise!!!
+Incidently I am 78 years old. Thanks PartSelect.
+Read more...
+Videos!
+Your Price
+$
+36.21
+In Stock
+Add to cart
+Refrigerator Door Shelf Bin
+★★★★★
+★★★★★
+300 Reviews
+PartSelect Number
+PS11752778
+Manufacturer Part Number
+WPW10321304
+This manufacturer-certified Refrigerator Door Shelf Bin, also known as the crisper bin and door shelf bin, is made of clear plastic, and is easy to install. It is used to hold items in the fridge door, like jars, bottles, cans, and condiments, and this item is clear with white trim around its top edge and you'll be able to visually see if the part is broken. This particular shelf attaches to the fridge door. You can check if this model is right for your appliance by checking your user manual and model number. This individually-sold door bin fits many different models of side-by-side refrigerator, and can be installed with the use of no tools.
+Fixes these symptoms
+Door won’t open or close
+Ice maker won’t dispense ice
+Leaking
+See more...
+Installation Instructions
+JULIA from BRONX, NEW YORK, NY
+replacing parts only
+the prices you had were great, now I see there was an increase in the parts.
+thank you
+Read more...
+Videos!
+Your Price
+$
+47.59
+In Stock
+Add to cart
+Refrigerator Oven Bake Element
+★★★★★
+★★★★★
+421 Reviews
+PartSelect Number
+PS438018
+Manufacturer Part Number
+316075103
+The Oven Bake Element is a black, metal part which supplies heat to the oven. This element is 19-1/2" wide x 18-1/2" long and has 3-1/2" inserts. It is rated as "Easy" to install by users, and attaches to the bottom of the oven. If you notice visible damage, or that your oven is not receiving heat properly then it may be a problem with this part. Check your model number and user manual to see if this is the right part for you. It is important for you to disconnect your appliance from the power source before performing this repair. After disconnecting your appliance, remove the two screws/nuts connecting the old element, pull it out, and discard if faulty. Simply connect the new element prongs where the old element fit, and screw it back in. You may need a flashlight when making this repair.
+Fixes these symptoms
+Element will not heat
+Little to no heat when baking
+Little to no heat when broiling
+See more...
+Installation Instructions
+David from Shawnee, KS
+Oven woudn't heat
+1.  Removed two screws, pulled out the element, voltage tested the element and determined it was an open circuit (bad element).
+2.  Ordered the part from partselect.com
+3.  Disconnected element, connected the new one, and screwed it back in.
+Read more...
+Videos!
+Your Price
+$
+41.43
+In Stock
+Add to cart
+Refrigerator Door Shelf Retainer Bar
+★★★★★
+★★★★★
+166 Reviews
+PartSelect Number
+PS734935
+Manufacturer Part Number
+240534901
+This door shelf retaining bar, also known as refrigerator door bar retainer or fridge door rack, is a genuine part sourced from the original manufacturer. It is a white This manufacturer-certified Door Shelf Retainer Bar, sometimes otherwise known as the door rack or bar retainer,  is a white, plastic part which can be easily installed onto the inside of the refrigerator or freezer door to hold items on the door shelves.  It holds items in your fridge and will show physical damage if broken or warped, at which time it should be replaced. Check your user manual and model number to see if this part is right for you. No tools are required for this installation, the part should simply snap into place. This part measures roughly 25 inches wide, 3 inches high, and 5 inches deep. This part is sold individually, and we recommend checking the other door shelf retaining bars on your refrigerator or freezer at the same time as ordering this part to ensure that no others need to be replaced, as they often wear or warp at similar speeds.
+Fixes these symptoms
+Door won’t open or close
+Leaking
+See more...
+Installation Instructions
+Cynthia from Long Beach, CA
+The retainer door shelf broke 3 years ago
+I just snapped the new shelves in place and !voila!  I should've done this years ago.
+Read more...
+Videos!
+Your Price
+$
+103.96
+In Stock
+Add to cart
+Refrigerator Water Filter
+★★★★★
+★★★★★
+94 Reviews
+PartSelect Number
+PS11722130
+Manufacturer Part Number
+EDR4RXD1
+This water filter (Whirlpool EveryDrop Refrigerator Water Filter, Single Turn Filter) purifies water going to the water dispenser and sometimes the icemaker as well. This part should be replaced if it is causing reduced water flow or just replaced periodically per the owner manual. Replacing this water filter may fix a noisy or leaking fridge, a fridge that is not dispensing water (or reduced flow rate), and an ice maker that is not making ice at all, or not making enough ice. This filter is white, sold individually and measures 8 inches by 3 inches in diameter. This water filter has been updated by the manufacturer. It may appear different but will still function the same. It is sold individually.
+Fixes these symptoms
+Fridge too cold
+Ice maker dispenses too little ice
+Ice maker not making ice
+See more...
+Installation Instructions
+Douglas from Byron, NY
+light on to order water filter
+Pressed in the end of the filter cover, lowered it down part way. Twisted the old filter 1/4 turn and removed it. Set in the sink to drain. Inserted new filter and twisted it to lock. closed cover. Done. Total time @ 1 Minute.
+Read more...
+Videos!
+Your Price
+$
+79.63
+In Stock
+Add to cart
+Refrigerator Crisper Drawer with Humidity Control
+★★★★★
+★★★★★
+404 Reviews
+PartSelect Number
+PS11739119
+Manufacturer Part Number
+WP2188656
+The crisper drawer (Crisper Pan, Refrigerator Crisper Drawer) with humidity control is meant to keep your vegetables and fruit as fresh as possible by allowing you to regulate the humidity levels within the drawer. It attaches on the inside of your refrigerator to the bottom of the crisper shelf. This drawer can break from misuse or accidental damage. It is also subject to material fatigue over time. If broken or damaged, it may be difficult to slide the drawer in and out, and it should be replaced. This plastic drawer measures 14.92 inches long, 7.6 inches high, and 16.5 inches wide and comes in white/clear.
+Fixes these symptoms
+Clicking sound
+Door Sweating
+Door won’t open or close
+See more...
+Installation Instructions
+JULIA from BRONX, NEW YORK, NY
+replacing parts only
+the prices you had were great, now I see there was an increase in the parts.
+thank you
+Read more...
+Videos!
+Your Price
+$
+18.58
+In Stock
+Add to cart
+Refrigerator Drum Bearing Slide - White (Sold individually)
+★★★★★
+★★★★★
+157 Reviews
+PartSelect Number
+PS755842
+Manufacturer Part Number
+WE1M504
+This authentic, white Drum Bearing Slide, also known as the bearing drum slide, glide, or pad, is a plastic, easy-to-install part for your dryer. It replaces the dryer's front drum slide to allow for easier movement.  You'll know if this part is an issue if your dryer is unable to tumble properly or is very noisy. Damage can come from regular use. The part attaches to the outermost side of the bearing. Check both slides for signs of wear, because they often wear at the same rate, and should be replaced at the same time; there are 2 of these particular slides per dryer. This part is sold individually, so you'll need to purchase multiple parts if replacing both at the same time.
+Fixes these symptoms
+Marks left on clothes
+Noisy
+See more...
+Installation Instructions
+Matthew from Plainfield, IL
+Due to over loading of the dryer the drum ruined the slides and was making a bad noise due to plastic rubbing plastic
+It was pretty easy.  After already taking apart the dryer to install a new belt I knew exactly my plan of action.  I removed the two screws that hold the top panel of the dryer to the front panel.  I then removed the top panel and removed the screws that hold the front to each side panel.  I than pulled the front away from the cabinet and drum.  I put the new slides in place and installed a new felt strip.  I put it back together and that was that.  Very easy.
+Read more...
+Videos!
+Your Price
+$
+14.29
+In Stock
+Add to cart
+Refrigerator Drum Bearing Slide - Green (Sold individually)
+★★★★★
+★★★★★
+27 Reviews
+PartSelect Number
+PS6447706
+Manufacturer Part Number
+WE1M1067
+This original equipment manufacturer Drum Bearing Slide is a plastic, green, easy-to-install part for your dryer. It replaces the dryer's front drum slide to allow for easier movement.  You'll know if this part is an issue if your dryer is unable to tumble properly or is very noisy. Damage can come from regular use. As the slides start to break down it may cause your dryer to make noise or not dry clothes in the usual amount of time. You will need to purchase two for both sides of your dryer. They attach to the outer-most sides of the bearing. The manufacturer recommends replacing both slides at the same time. Take this opportunity to clean out the lint and dust in the dryer, to keep it running smoothly. This is a genuine replacement part that comes directly from the manufacturer. This item is sold individually. The part attaches to the outermost side of the bearing. Although this part is denoted as being "Green" in its title, many users and technicians have noted that its true colour is closer to a dark gray or black.
+Fixes these symptoms
+Marks left on clothes
+Noisy
+See more...
+Installation Instructions
+Matthew from Plainfield, IL
+Due to over loading of the dryer the drum ruined the slides and was making a bad noise due to plastic rubbing plastic
+It was pretty easy.  After already taking apart the dryer to install a new belt I knew exactly my plan of action.  I removed the two screws that hold the top panel of the dryer to the front panel.  I then removed the top panel and removed the screws that hold the front to each side panel.  I than pulled the front away from the cabinet and drum.  I put the new slides in place and installed a new felt strip.  I put it back together and that was that.  Very easy.
+Read more...
+Refrigerator Brands
+Kenmore Refrigerator Parts
+GE Refrigerator Parts
+Whirlpool Refrigerator Parts
+Crosley Refrigerator Parts
+Maytag Refrigerator Parts
+Frigidaire Refrigerator Parts
+KitchenAid Refrigerator Parts
+Amana Refrigerator Parts
+Jenn-Air Refrigerator Parts
+Gibson Refrigerator Parts
+White-Westinghouse Refrigerator Parts
+Hotpoint Refrigerator Parts
+Inglis Refrigerator Parts
+Estate Refrigerator Parts
+Uni Refrigerator Parts
+Roper Refrigerator Parts
+Electrolux Refrigerator Parts
+Dacor Refrigerator Parts
+Kelvinator Refrigerator Parts
+LG Refrigerator Parts
+Magic Chef Refrigerator Parts
+Admiral Refrigerator Parts
+Hardwick Refrigerator Parts
+Gaggenau Refrigerator Parts
+Tappan Refrigerator Parts
+International Refrigerator Parts
+Samsung Refrigerator Parts
+Thermador Refrigerator Parts
+Hoover Refrigerator Parts
+Caloric Refrigerator Parts
+RCA Refrigerator Parts
+Norge Refrigerator Parts
+Litton Refrigerator Parts
+Sharp Refrigerator Parts
+Haier Refrigerator Parts
+Bosch Refrigerator Parts
+Back to Top
+Related  Refrigerator Parts
+Refrigerator Trays and Shelves
+Refrigerator Drawers and Glides
+Refrigerator Filters
+Refrigerator Ice Makers
+Refrigerator Seals and Gaskets
+Refrigerator Hardware
+Refrigerator Door Shelves
+Refrigerator Hinges
+Refrigerator Lights and Bulbs
+Refrigerator Switches
+Refrigerator Thermostats
+Refrigerator Motors
+Refrigerator Caps and Lids
+Refrigerator Valves
+Refrigerator Electronics
+Refrigerator Dispensers
+Refrigerator Handles
+Refrigerator Doors
+Refrigerator Circuit Boards and Touch Pads
+Refrigerator Elements and Burners
+Refrigerator Hoses and Tubes
+Refrigerator Timers
+Refrigerator Brackets and Flanges
+Refrigerator Wheels and Rollers
+Refrigerator Fans and Blowers
+Refrigerator Compressors
+Refrigerator Sensors
+Refrigerator Grilles and Kickplates
+Refrigerator Bearings
+Refrigerator Springs and Shock Absorbers
+Refrigerator Latches
+Refrigerator Knobs
+Refrigerator Trim
+Refrigerator Wire Plugs and Connectors
+Refrigerator Drip Bowls
+Refrigerator Tanks and Containers
+Refrigerator Legs and Feet
+Refrigerator Panels
+Refrigerator Ducts and Vents
+Refrigerator Insulation
+Refrigerator Grates
+Refrigerator Racks
+Refrigerator Power Cords
+Refrigerator Starters
+Refrigerator Blades
+Refrigerator Deflectors and Chutes
+Refrigerator Manuals and Literature
+Refrigerator Transformers
+Back to Top
+Popular  Refrigerator Models
+Below are the most popular  Refrigerator models we have.
+                    Enter your model number in the search box to find your model.
+Search
+Need Help Finding Your Model Number?
+FGHS2631PF4A Refrigerator
+LFSS2612TF0 Refrigerator
+WRS325FDAM04 REFRIGERATOR
+FGHC2331PFAA REFRIGERATOR
+WRS325FDAM02
+MFI2568AES Bottom Freezer
+LFSS2612TE0 Refrigerator
+WRF535SMBM00 REFRIGERATOR
+WRX735SDBM00
+FFHS2611PFEA REFRIGERATOR
+GFSS2HCYCSS
+FGHS2655PF5A REFRIGERATOR
+KSCS25INSS00
+FFTR1814QW4A REFRIGERATOR
+FRS6LF7JS3
+JFC2089HES Bottom Freezer
+GTH18GBDCRWW
+FFSS2614QS6A REFRIGERATOR
+PLRU1778ES0
+GSH25JSTASS
+View More
+Back to Top
+Troubleshooting at your fingertips
+Not sure where to start on that repair?
+We've got you covered!
+With the
+Fix app
+, you can quickly and easily find information on your appliance, along with videos and articles to help you fix it.
+"Like magic. I took a picture of the model number on my refrigerator, and the app identified it right away … Very convenient. I'm impressed."
+- Clever Jeff
+★★★★★
+was sucessfully added to your cart!
+Continue Shopping
+View Cart
+You added
+1 item
+to your cart
+✖
+$
+Qty:
+Total item(s) in cart:
+Order Subtotal
+$
+*Taxes and shipping will be applied during checkout
+View Cart
+Continue Shopping
+Join Our Mailing List
+Get
+10% Off
+your order
+Plus expert repair help, future discounts, and more!
+We'll send you expert repair help, discounts, and more!
+if (CRO.get('CRO_OptIn_Discount') == 'enable') _New_Email_Optin('ON');
+Error occurred, please verify your email and try again.
+Your Email Has Been Added to Our Mailing List!
+PartSelect.com
+Home
+Contact
+About Us
+Help
+Privacy Policy
+CA Privacy Rights
+Terms of Use
+Careers
+Privacy Request
+PartSelect Canada
+Free Repair Help
+Appliance Repair
+Instant Repairman
+Dishwasher
+Dryer
+Microwave
+Range / Stove / Oven
+Refrigerator
+Washing Machine
+PartSelect Community
+X
+YouTube Channel
+Facebook Page
+LinkedIn
+Blog
+Just For Fun!
+Why Shop PartSelect
+Same Day Shipping
+365 Day Returns
+Two Million Parts
+Easier on the Earth
+Secure Shopping
+One-Year Warranty
+Your Guide to OEM Parts
+Great Prices
+Get the Fix App today
+All brand logos are trademarks of their respective owners.
+The PartSelect logo is a Registered Trademark of Atlantic Laundry Centres, Ltd.
+Copyright © 1999-2024, Eldis Group Partnership. All rights reserved.
